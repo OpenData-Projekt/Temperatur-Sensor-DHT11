@@ -1,2 +1,3 @@
-# Temperatur-Sensor-DHT22
-Temperatur und Luftfeuchtigkeit messen mit einem DHT22
+# Temperatur-Sensor-DHT11
+Dieses Repository ist falsch, ich werde es umgehend löschen.
+Bitte beachten sie dieses Repository nicht.
